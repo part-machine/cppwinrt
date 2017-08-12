@@ -22,7 +22,7 @@ Issues and feature requests are submitted through the project's Issues section o
 
 Issues are regularly reviewed and updated with additional information by the core team. Sometimes the core team may have questions about particular issue that might need clarifications so, please be ready to provide additional information. 
 
-# Feature requests
+# Feature requests   
 
 #### Feature requests and Design Change Requests (DCRs) are an important part of the lifecycle of any software project. Please log these as Issues in  our GitHub repository. 
 
